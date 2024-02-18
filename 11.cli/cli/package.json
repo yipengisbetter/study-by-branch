@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.0",
+    "commander": "^11.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7"
+  },
+  "name": "zw-cli",
+  "version": "1.0.0",
+  "main": "bin/zwCli.js",
+  "bin": "bin/zwCli.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test sepcified\" && exit 1"
+  },
+  "author": "yy",
+  "license": "ISC",
+  "description": ""
+}
